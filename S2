@@ -1,4 +1,4 @@
-mgmt_ip: 10.0.2.222
+mgmt_ip: 10.0.3.222
 vlans:
   red:
     id: 10
